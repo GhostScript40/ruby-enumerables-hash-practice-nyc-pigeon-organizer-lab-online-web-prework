@@ -1,11 +1,11 @@
-{
+  {
   "Theo" => {
     :color => ["purple", "grey"],
     :gender => ["male"],
     :lives => ["Subway"]
   },
   "Peter Jr." => {
-    :color => ["purple", "grey"],
+    :color => ["purple", "grey"],  
     :gender => ["male"],
     :lives => ["Library"]
   },
